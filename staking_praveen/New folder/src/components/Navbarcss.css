@@ -1,0 +1,12 @@
+.nav{
+    background-color: black;
+    margin: -72px 10px -64px -29px;
+    padding: 0px 0px 0px -62px;
+    display: flex;
+    /* justify-content: flex-start;*/
+}
+.navbar{
+   
+    display: flex; 
+    margin: 24px 10px 14px 3px;
+}
