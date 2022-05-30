@@ -1,0 +1,174 @@
+/* .login{
+    width: 99%;
+    height: 90%;
+    background-image: linear-gradient(to right, rgba(239, 219, 219, 0.742) , rgb(32, 176, 224));
+}
+.back{
+ background-color: white;  
+ border: 4px solid white;
+ border-radius: 2px;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ 
+}
+
+ .in{
+    width: 80%;
+    height: 40px;
+    background-color: #e6edff;
+    border:none;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+button{
+    width: 80%;
+    height: 40px;
+    position: relative;
+    background-color: #ff4f59;
+    border:none;
+    color: white;
+    margin-top:20PX ;
+    border-radius: 7px;
+}
+
+p{
+   height: 30px;
+}
+h2{
+    text-align: center;
+}
+a{
+    font-size: 12px;
+    text-decoration: none;
+    color: white;
+}
+label{
+   font-size: 12px;
+} 
+.flexx{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-be;
+}
+h6 {
+    
+    position: relative;
+  top: 10px;
+   right: 120px;
+   color: rgba(0, 0, 0, 0.356);
+}
+.h67 {
+    
+    position: relative;
+  top: 10px;
+   right: 120px;
+   color: rgba(0, 0, 0, 0.356);
+}
+.but{
+    background-color: #4d7bf3;
+    height: 70%;
+    width: 123%;
+    position: relative;
+    bottom:27px;
+    right: -2px;
+    border-radius: 0px 0px 32px 0px;
+}
+.btn:hover{
+    background-color: transparent;
+}
+.h6{
+    position: relative;
+    right: 110px;
+    color: rgba(0, 0, 0, 0.356);
+}
+.h66{
+   right:97px
+}
+span{
+    font-size: 15px;
+}
+a{
+    text-decoration: none;
+    
+    font-size: 25px;
+
+}
+a:hover{
+    font-size: 40x;
+}
+.small{
+    font-size: 15x;
+    color: red;
+}
+.h666{
+        position: relative;
+        top: 10px;
+        right: 135px;
+}
+.bu {
+    background-color: transparent;
+    color: black;
+    width: 116%;
+    height: 40px;
+    position: relative;
+    bottom: 20px;
+    right: -2px;
+    border-radius: 169px 778px 4000px;
+}
+.butt{
+    background-color: transparent ;
+    color: black;
+    width: 116%;
+    height: 40px;
+    position: relative;
+    bottom: 21px;
+    right: -2px;
+    
+    border-radius: 169px 778px 4000px;
+}
+.buu {
+    background-color: #4d7bf3;
+   
+    width: 295%;
+    height: 60px;
+    position: relative;
+    bottom: 26px;
+    right: 78px;
+   
+    border-radius: 0px 0px 0px 34px;
+}
+.h16{
+    right: 146px;
+
+}
+.mt{
+    margin-top:50px ;
+    position: relative;
+    bottom: 20px;
+}
+input{
+    width: 120%;
+}
+
+
+.check {
+    position: relative;
+    top: 15px;
+    right: 46px;
+    background-color: #ff4f59;
+    border: #ff4f59;
+}
+.checkk{
+    position: relative;
+    top: 17px;
+    right: 130px;
+    width: 20px;
+    background-color: #ff4f59;
+    border: #ff4f59;
+}
+.ic{
+    color: black;
+} */

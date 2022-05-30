@@ -1,0 +1,176 @@
+/* ._36iSm img {
+    height: 140px;
+}
+
+._3drDv{
+    padding:px;
+} */
+.bg{
+    background-color: #949191;
+}
+.bg1{
+    background-color: #c4c4c4;
+}
+.bgg{
+
+    background-color: #949191;
+}
+.margin{
+   border: 5px solid #949191;
+}
+.ht{
+    height: 100%;
+    width:100%
+}
+.br{
+    border: 2px solid #0d0c0c46;
+    margin: 10px;
+    padding: 5px;
+}
+.white{
+    border: 5px solid white;
+}
+.h3{
+    text-align: center;
+    margin-top: 130px;
+}
+.mt{
+    margin-top: 50px;
+}
+.margin1{
+    margin: 10px;
+}
+.immg{
+    object-fit: contain;
+    width: 100%;
+}
+.btn1{
+    background-color: black;
+    color: white;
+    width: 80%;
+}
+.flex{
+    display: flex;
+    
+    
+}
+span{
+    padding: 0 3px;
+  
+    font-weight: 20px;
+    border-radius: 5px;
+    position: relative;
+}
+ul{
+    list-style-type: none;
+}
+.h7{
+    font-weight: 700;
+}
+.h77{
+    font-weight: 700;
+}
+label{
+    padding-left:8px;
+}
+.filters{
+    margin-top: 80px;
+}
+.fa-solid{
+    height: 5%;
+  
+}
+/* .container{
+    background-color: #949191;
+} */
+.paginationBttns{
+    width: 80%;
+    height:40px;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+.paginationBttns a{
+    padding: 10px;
+    margin: 8px;
+    border-radius: 5px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+.pagination{
+    display: inline-block;
+    
+}
+.pagination a{
+    color: black;
+   
+    padding-left: 20px;
+    border: 2px solid black;
+    text-decoration: none;
+    margin: 10px;
+    
+}
+
+.pagination a:hover:not(.active) 
+{background-color: #ddd;}
+p{
+    /* color: white; */
+margin-left: 1200px;
+}@media only screen and (max-width: 1200px) {
+   p{
+       margin-left: 90%;
+   }
+  }
+.navv{
+    background-color: white;
+
+}
+.input{
+    width: 30%;
+    position: relative;
+    left: 45%;
+    top: 28px;
+}
+header{
+    width: 100%;
+}.immg{
+    margin-top: 30px;
+    align-content: center;
+}
+.but{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.butt{
+    width: 15%;
+    
+    border-radius: 200px;
+
+}
+.Red{
+   color: red;
+}
+.shopping{
+    display: flex;
+    justify-content: space-between;
+
+}
+.checkout{
+    width: 80%;
+    border-radius: 30px;
+    background-color: rgb(74, 183, 220);
+}
+
+button{
+cursor: pointer;
+}
+a{
+    cursor: pointer;
+}
+.immgg{
+    width: 40%;
+}
+.mt{
+    margin-top: 30px;
+}

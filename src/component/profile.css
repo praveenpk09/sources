@@ -1,0 +1,22 @@
+.top{
+    margin-top: 50px;
+}
+.left{
+    position: relative;
+    left: 50px;
+}
+.place{
+    position: relative;
+    right: 149px;
+    top: 62px;
+    background-color: rgba(0, 0, 0, 0.207);
+    color: white;
+    width: 150px;
+    border: none;
+    border-radius: 20px;
+}
+.width{
+    width: 40%;
+    border-radius: 50%;
+
+}
