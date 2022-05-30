@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+body{
+    background-color:#ecf0f3 ;
+    font-family: 'Roboto', sans-serif;
+}
+.img{
+    padding: 60px;
+}
+form{
+    height: 60vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    font-family: sans-serif;
+}
+.form{
+    width: 18rem;
+    height: 28rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    box-shadow: 10px 10px 5px rgba(213,215,218,255),
+                -5px -5px 5px white;
+    border-radius:20px ;
+}
+.twit{
+    border: 1px solid rgba(0, 0, 0, 0.234);
+    border-radius: 50px;
+    width: 20%;
+    box-shadow: 10px 10px 5px inset white,
+                5px 10px 5px white;
+;
+}
+.icon{
+    position: relative;
+    
+}
+.user-icon{
+    position: absolute;
+    left: 6.5px;
+    top: 11.5px;
+}
+.user-icon2{
+    position: absolute;
+    left:6px;
+    top:77.5px ;
+
+}
+.total{
+    position: relative;
+    left: 13%;
+    top: 8%;
+}
+.in{
+    margin-top: 20px;
+}
+.login{
+    width: 42%;
+    height: 10%;
+    background-color: #01a9f4;
+    color: white;
+   box-shadow:  4px 1px 7px 1px #cdcfd2;
+}
+.inn{
+    margin-top: 15px;
+    letter-spacing: 2px;
+}
+.div{
+    height: 43px;
+    width: 64%;
+    padding-left: 32px;
+    border-radius: 20px;
+    border: none;
+    
+    
+}
+.sha{
+    box-shadow: inset 5px 5px 12px #cdcfd2,
+                inset  -5px 29px 12px #fefefe;
+}
+a{
+    color: #29b2f4;
+    text-decoration: none;
+    
+}
+.logo{
+    width: 15%;
+}
+.logo1{
+    position: relative;
+    left: 72px;
+    top: 20px;
+}
+.lo{
+    width: 73%;
+    padding-right: 36px;
+}
+.loo{
+        font-size: 12px;
+        position: relative;
+        left: 22px;
+}
