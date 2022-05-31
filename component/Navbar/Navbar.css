@@ -1,0 +1,77 @@
+ .navbar-expand-lg{
+    background-image: linear-gradient(#e9e6fe,#faf9ff)!important;
+}
+.btncont{
+    color: #fff;
+    /* background-color: unset !important ;
+    border:none !important; */
+    z-index: 3px;
+    /* margin-top: 472px; */
+    width: 180px;
+    height: 50px;
+    background-color: #c847ff;
+    color: #fff;
+    margin-left: -25px;
+    border-radius: 20px;
+}
+
+
+.brand_logo_img{
+    width: 51px;
+    height: 64px;
+    margin-left: 20%;
+}
+
+.disconnect_btn_pc{
+    background-color: #c847ff !important;
+    border-radius: 20px;
+    border: none !important;
+    outline: none !important;
+}
+.disconnect_btn_pc:hover{
+    background-color: #c847ff !important;
+    border-radius: 20px;
+    border: none !important;
+    outline: none !important;
+}
+
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+    .brand_logo_img {
+        left: -15%;
+        width: 36px;
+        position: absolute;
+        height: 40px;
+        top: 9px;
+        /* margin-left: -64%; */
+    }
+    .disconnect_btn_mobile {
+        position: absolute;
+        background-color: #c847ff !important;
+        border-radius: 20px;
+        border: none !important;
+        width: 113px;
+        height: 35px;
+        font-size: 10px;
+        outline: none !important;
+        top: 20%;
+        left: 65%;
+    }
+
+    .disconnect{
+        font-size: 14px;
+    }
+}
+
+@media only screen and (min-device-width: 600px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+
+    .disconnect_btn_pc{
+        background-color: #c847ff!important;
+        border-radius: 20px;
+        border: none !important;
+        outline: none !important;
+        position: absolute;
+        bottom: 0;
+        left: 70%;
+    }
+}
